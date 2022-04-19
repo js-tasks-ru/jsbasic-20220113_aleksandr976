@@ -21,6 +21,7 @@ function initCarousel() {
       prev();
     }
   };
+
   // реализуем функцию прокрутки вперед-назад
 
   function next() {
